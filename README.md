@@ -8,7 +8,7 @@ Most of my repositories are private, due to the nature of information contained 
 This is where most of my spare-time energy — building the tools I wished
 existed for keeping on top of my own finances.
 
-- *finance-analysis* *(private)* — what started as a script has grown into a
+- **finance-analysis** *(private)* — what started as a script has grown into a
   proper personal-finance platform, as an alternative to Kubera (for tracking investments and bank accounts):
   - a **portfolio tracker** (multi-page Streamlit app, which looks similar to the terminal) that
     imports transactions from UK brokers (as contract notes, or CSVs), auto-updates prices (using yfinance),
