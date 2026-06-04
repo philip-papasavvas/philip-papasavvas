@@ -1,6 +1,6 @@
 ### Hi, I'm Philip 👋
 
-During the day I work with data, in financial markets. Outside of work, I build for fun, usually quite a lot- something to do with  financial markets, exploring the capabilities of Claude Code to assist me with admin, or making sense of my own health data.
+During the day I work with data in financial markets. Outside of work, I build for fun, usually quite a lot- something to do with  financial markets, exploring the capabilities of Claude Code to assist me with admin, or making sense of my own health data.
 
 Most of my repositories are private, due to the nature of information contained in them, which is personal, but I wanted to give an overview of some of the things I get up to.
 
