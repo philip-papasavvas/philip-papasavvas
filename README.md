@@ -43,7 +43,7 @@ Way back when, I learned by building rather than reading about it.
 
 #### How I work with AI
 
-I use Claude Code most days. The arithmetic stays in tested code, and the model gets the judgement calls.
+I use Claude Code most days, and Google Antigravity and T3 Code as well. The arithmetic stays in tested code, and the model gets the judgement calls.
 
 Anything that goes wrong gets written into the repository, so it (hopefully) doesn't happen twice.
 
@@ -53,7 +53,8 @@ Anything that goes wrong gets written into the repository, so it (hopefully) doe
 - **Data & pipelines**: ETL/ELT, Dagster, SQL Server, Oracle, PostgreSQL, SQLite/libSQL
 - **Cloud & infra**: AWS, Azure, Cloudflare Workers, Docker, Kubernetes, Helm, GitOps, CI/CD (GitHub Actions)
 - **Front-end**: Streamlit, Dash/Plotly, AG Grid, React
-- **AI**: Claude API (tool use, agents), MCP servers, Claude Code
+- **AI**: Claude API (tool use, agents), MCP servers
+- **AI coding tools**: Claude and Claude Code, Google Antigravity, T3 Code
 
 ---
 
