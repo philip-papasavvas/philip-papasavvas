@@ -13,7 +13,6 @@ This is where most of my spare-time energy goes, building the tools I wished exi
 **finance-analysis** *(private, Python)* started as a script and has grown into a proper personal-finance platform:
 
 - **Portfolio tracker** (Streamlit): Imports transactions from UK brokers (contract notes or CSVs, multiple providers), updates prices daily, and works out time- and money-weighted returns, Sharpe, Sortino, Calmar, drawdown, beta and tracking error. There's a demo mode with an invented portfolio, so I can show it without showing mine!
-- **Read-only MCP server**: Lets me ask Claude about the portfolio. It has a few named tools and no free-form SQL, on purpose.
 - **Spending viewer**: Sorts card transactions by merchant and shows budget-vs-actual (reads CSV files).
 - **Wealth projection**: For the longer-term what-ifs.
 - **Fund-overlap agent** *(experimental)*: A Claude tool-use loop that checks a fund's factsheet against my holdings, so I don't end up with two similar funds where one is 5x more expensive (it's happened).
